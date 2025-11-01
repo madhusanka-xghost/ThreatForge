@@ -77,8 +77,6 @@ void print_banner()
     printf("=================================================================================================================\n\n");
 
     printf("\033[0m\n");
-    // Force the text to print before any other output
-    // fflush(stdout);
 }
 
 int main(int argc, char *argv[])
@@ -292,4 +290,5 @@ int main(int argc, char *argv[])
     curl_global_cleanup();
 
     return 0;
+
 }
