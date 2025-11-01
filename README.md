@@ -1,3 +1,4 @@
+
 # Threat Forge
 
 <pre>
@@ -81,3 +82,6 @@ This is a command-line tool. You'll need to use flags to provide the file you wa
 ### Usage:
 ```bash
 .\ThreatForge.exe -f <filename> -k <your_api_key>
+```
+
+<img width="1649" height="780" alt="threatforge" src="https://github.com/user-attachments/assets/4ba8f4a9-d3bf-4d7e-bdce-2bb8f925dada" />
